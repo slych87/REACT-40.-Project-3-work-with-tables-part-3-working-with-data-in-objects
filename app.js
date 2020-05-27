@@ -17,7 +17,7 @@ const data = {
     },
     {
       id: 4,
-      age: 19, S
+      age: 19,
       name: "Kalor",
     },
 
